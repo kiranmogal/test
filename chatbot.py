@@ -37,7 +37,7 @@
 
 import random
 def greet():
-    responses = ["hi", "hello", "hey there"]
+    responses = ["hi", "hello", "hey there", "parat hanglas?"]
     return random.choice(responses)
 
 def handle_input(user_input) :
